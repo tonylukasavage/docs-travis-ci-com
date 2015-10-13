@@ -253,7 +253,7 @@ menu
 2. With [command line client](https://github.com/travis-ci/travis#readme):
 
 <figure>
-  [ ![travis cache --delete](/images/cli-cache.png) ](/images/cli-cache.png)
+  ![travis cache --delete](/images/cli-cache.png)
   <figcaption>Running <tt>travis cache --delete</tt> inside the project directory.</figcaption>
 </figure>
 
